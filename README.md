@@ -1,8 +1,13 @@
-## Hi there!
+## Hi there! 👋
+
 ---
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=trantrong-quyet_icons=true&bg_color=00000000" />
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrong-Quyet&layout=compact" />
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=trantrong-quyet&show_icons=true&bg_color=00000000" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrong-Quyet&layout=compact" />
+
+### Technologies & Tools
 ---
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,6 +25,4 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-
-
+![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
