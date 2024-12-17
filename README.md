@@ -1,8 +1,7 @@
 ## Hi there!
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trantrong-quyet_icons=true&bg_color=00000000)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrong-Quyet&layout=compact)
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=trantrong-quyet_icons=true&bg_color=00000000" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrong-Quyet&layout=compact" />
 ---
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
