@@ -3,11 +3,10 @@
 ---
 
 <img align="left" margin-bottom="24px" width="47%" src="https://github-readme-stats.vercel.app/api?username=trantrong-quyet&show_icons=true&bg_color=00000000" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrong-Quyet&layout=compact" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrong-Quyet&layout=compact" />
 
+# ___
 ### Technologies & Tools
----
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
