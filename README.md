@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Welcome! 👋
 
 ---
 
@@ -25,3 +25,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+<br clear="left" />
