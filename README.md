@@ -26,3 +26,9 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 <br clear="left" />
+
+## Check out my blog here where I share everything I learn in this massive Web Dev space:
+[https://phil-tran-blog.vercel.app/](https://phil-tran-blog.vercel.app/)
+
+## My latest piece of tech
+[Host express app on Vercel for free](https://phil-tran-blog.vercel.app/how-to-deploy-express-app-on-vercel-free-tier)
