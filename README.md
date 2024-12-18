@@ -27,7 +27,7 @@
 ![Affinity Designer](https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 <br clear="left" />
 
-## Check out my blog here where I share everything I learn in this massive Web Dev space:
+## Check out my blog here where I share everything I've learned and my journey in this massive Web Dev space:
 [https://phil-tran-blog.vercel.app/](https://phil-tran-blog.vercel.app/)
 
 ## My latest piece of tech
