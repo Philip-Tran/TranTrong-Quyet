@@ -2,8 +2,8 @@
 
 ---
 
-<img align="left" margin-bottom="24px" width="49%" src="https://github-readme-stats.vercel.app/api?username=trantrong-quyet&show_icons=true&bg_color=00000000" />
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranTrong-Quyet&layout=compact" />
+<img align="left" margin-bottom="24px" width="49%" src="https://github-readme-stats.vercel.app/api?username=philip-tran&show_icons=true&bg_color=00000000" />
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philip-tran&layout=compact" />
 
 # ___
 ### Technologies & Tools
